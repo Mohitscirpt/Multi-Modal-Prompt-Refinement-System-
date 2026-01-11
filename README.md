@@ -111,17 +111,6 @@ Expected Deliverables:
 - Admin dashboard
 - Database schema
 
-🛠️ Tech Stack (Customizable)
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: Python / Node.js / Java (optional)
-
-Document Parsing: PDF & Word readers
-
-Image Processing: OCR / Vision models
-
-AI Integration: Prompt-based AI models
 
 📂 Project Use Cases
 
@@ -168,5 +157,5 @@ Feel free to fork the repository and submit a pull request.
 
 📧 Contact
 
-Developer: Mohit Gehlot
+Developer: Mohit Kumar
 Field: B.Tech CSE | Web Development | AI Systems
